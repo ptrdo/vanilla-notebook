@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-notebook",
+  "version": "v0.0.1",
+  "description": "A notebook parser employing semantic HTML with minimal overhead for maximum portability.",
+  "homepage": "https://github.com/InstituteforDiseaseModeling/COMPS-UI-Auth#readme",
+  "main": "vanilla-notebook.js",
+  "files": ["/*"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptrdo/vanilla-notebook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ptrdo/vanilla-notebook.git/issues"
+  },
+  "authors": [
+    "Peter Sylwester <ptrdo@users.noreply.github.com>"
+  ],
+  "license": "MIT"
+}
